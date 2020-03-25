@@ -28,8 +28,7 @@
     {
       "basePath": "lib",
       "files": [
-        "**/?(jquery.)raty*", 
-        "images/*.png"
+        "**/*", 
       ]
     }
   ]
